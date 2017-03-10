@@ -1,6 +1,6 @@
-calss hello
+class hello
 
   def say_hello
-    puts "Hello, world
+    puts "Hello, world"
   end
 end
